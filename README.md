@@ -1,3 +1,8 @@
+Для работы требуется установка библиотеки (torchdiffeq)[https://github.com/rtqichen/torchdiffeq]:
+```
+pip install torchdiffeq
+```
+
 Запуск эксперимента производится командой
 
 ```
