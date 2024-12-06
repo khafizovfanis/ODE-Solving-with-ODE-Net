@@ -1,4 +1,4 @@
-Для работы требуется установка библиотеки [https://github.com/rtqichen/torchdiffeq](torchdiffeq):
+Для работы требуется установка библиотеки [torchdiffeq](https://github.com/rtqichen/torchdiffeq):
 ```
 pip install torchdiffeq
 ```
